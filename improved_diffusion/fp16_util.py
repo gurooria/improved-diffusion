@@ -1,5 +1,6 @@
 """
 Helpers to train with 16-bit precision.
+Low-level computer science and engineering optimizations.
 """
 
 import torch.nn as nn

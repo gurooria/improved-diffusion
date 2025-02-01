@@ -1,5 +1,6 @@
 """
 Helpers for distributed training.
+Low-level computer science and engineering optimizations.
 """
 
 import io
